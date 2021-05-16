@@ -1,0 +1,16 @@
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\bin\Debug\netcoreapp3.1\RestClient.exe
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\bin\Debug\netcoreapp3.1\RestClient.deps.json
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\bin\Debug\netcoreapp3.1\RestClient.runtimeconfig.json
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\bin\Debug\netcoreapp3.1\RestClient.runtimeconfig.dev.json
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\bin\Debug\netcoreapp3.1\RestClient.dll
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\bin\Debug\netcoreapp3.1\RestClient.pdb
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\bin\Debug\netcoreapp3.1\restapiclientlib.dll
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\bin\Debug\netcoreapp3.1\restapiclientlib.pdb
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\obj\Debug\netcoreapp3.1\RestClient.csprojAssemblyReference.cache
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\obj\Debug\netcoreapp3.1\RestClient.AssemblyInfoInputs.cache
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\obj\Debug\netcoreapp3.1\RestClient.AssemblyInfo.cs
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\obj\Debug\netcoreapp3.1\RestClient.csproj.CoreCompileInputs.cache
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\obj\Debug\netcoreapp3.1\RestClient.csproj.CopyComplete
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\obj\Debug\netcoreapp3.1\RestClient.dll
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\obj\Debug\netcoreapp3.1\RestClient.pdb
+C:\Users\Ric\Documents\repo\restclient\RestClient\RestClient\obj\Debug\netcoreapp3.1\RestClient.genruntimeconfig.cache

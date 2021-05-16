@@ -1,0 +1,8 @@
+C:\Users\Ric\Documents\repo\restclient\RestClient\restapiclientlib\bin\Debug\netstandard2.0\restapiclientlib.deps.json
+C:\Users\Ric\Documents\repo\restclient\RestClient\restapiclientlib\bin\Debug\netstandard2.0\restapiclientlib.dll
+C:\Users\Ric\Documents\repo\restclient\RestClient\restapiclientlib\bin\Debug\netstandard2.0\restapiclientlib.pdb
+C:\Users\Ric\Documents\repo\restclient\RestClient\restapiclientlib\obj\Debug\netstandard2.0\restapiclientlib.AssemblyInfoInputs.cache
+C:\Users\Ric\Documents\repo\restclient\RestClient\restapiclientlib\obj\Debug\netstandard2.0\restapiclientlib.AssemblyInfo.cs
+C:\Users\Ric\Documents\repo\restclient\RestClient\restapiclientlib\obj\Debug\netstandard2.0\restapiclientlib.csproj.CoreCompileInputs.cache
+C:\Users\Ric\Documents\repo\restclient\RestClient\restapiclientlib\obj\Debug\netstandard2.0\restapiclientlib.dll
+C:\Users\Ric\Documents\repo\restclient\RestClient\restapiclientlib\obj\Debug\netstandard2.0\restapiclientlib.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RestClient/1.0.0": {
+        "dependencies": {
+          "restapiclientlib": "1.0.0"
+        },
+        "runtime": {
+          "RestClient.dll": {}
+        }
+      },
+      "restapiclientlib/1.0.0": {
+        "runtime": {
+          "restapiclientlib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "restapiclientlib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
